@@ -126,7 +126,7 @@ def generate_xo_physical_slots(corners):
 CAMERA_INDEX = 1
 CAMERA_FLIP_MODE = -1
 SAFE_HOVER_Z = 50.0
-BEFORE_PLACE_POSE = (200.0, 0.00012, 150.0, 0.0)
+BEFORE_PLACE_POSE = (200.0, 0.00012, 100.0, 0.0)
 
 COLOR_RANGES = {
     "Red": {
